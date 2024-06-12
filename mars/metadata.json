@@ -1,0 +1,10 @@
+{
+  "maxSunZenithAngle": 2.094395160675049,
+  "scatteringTextureNuSize": 8,
+  "sunAngularRadius": 0.003055467503145337,
+  "sunIlluminance": [
+    62397.87890625,
+    55776.69140625,
+    54766.3359375
+  ]
+}
