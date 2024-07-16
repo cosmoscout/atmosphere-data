@@ -1,5 +1,6 @@
 {
   "maxSunZenithAngle": 2.094395160675049,
+  "refraction": true,
   "scatteringTextureNuSize": 8,
   "sunAngularRadius": 0.004654695745557547,
   "sunIlluminance": [
